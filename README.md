@@ -313,6 +313,11 @@ const buffer = await paintImage.addText(textOptionsArray, image, __dirname);
 //sending the buffered image with text on it 
  await message.channel.send({files: [buffer] });
 ```
+<details>
+  <summary>Click to expand/collapse</summary>
+
+  This is the content you want to hide or display.
+</details>
 
 ## 📚 More Commands & Documentation 📖
 
